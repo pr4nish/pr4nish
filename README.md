@@ -75,9 +75,13 @@ Learning by building real projects and having fun with code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr4nish&show_icons=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr4nish" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pr4nish&show_icons=true&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr4nish&hide_border=true" height="170"/>
+</p>
+
 
 ---
 
