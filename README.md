@@ -26,7 +26,7 @@ Learning by building real projects and having fun with code.
 <p>
   <a href="https://linkedin.com/in/pranishdhungana" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         width="40" style="margin-right:12px;" />
+         width="40" style="margin-right:40px;" />
   </a>
   <a href="https://instagram.com/pranish.dhungana_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
