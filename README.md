@@ -25,12 +25,15 @@ Learning by building real projects and having fun with code.
 
 <p>
   <a href="https://linkedin.com/in/pranishdhungana" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         width="40" style="margin-right:12px;" />
   </a>
   <a href="https://instagram.com/pranish.dhungana_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         width="40" />
   </a>
 </p>
+
 
 ---
 
@@ -75,12 +78,23 @@ Learning by building real projects and having fun with code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr4nish&show_icons=true&hide_border=true" height="170"/>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pr4nish&show_icons=true&hide_border=true" 
+    alt="GitHub Stats" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr4nish&hide_border=true" height="170"/>
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=pr4nish&hide_border=true" 
+    alt="GitHub Streak" 
+    height="170"
+  />
 </p>
+
 
 
 ---
